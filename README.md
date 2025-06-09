@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>HTML Structure</title>
+</head>
+
+<body>
+    Welcome to Codingal... 
+    Our motive is to make all the children fall in love for coding...
+</body>
+
+</html>
