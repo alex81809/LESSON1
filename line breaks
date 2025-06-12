@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Line Breaks</title>
+</head>
+
+<body>
+    <h1>Hello, I am Alexandra! </h1>
+    <br>You can call me Alex</br>
+    <br>I enjoy playing video games and drawing. </br>
+</body>
+
+</html>
